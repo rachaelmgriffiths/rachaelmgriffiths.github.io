@@ -3,7 +3,7 @@ title: "A Brief Biography: The Successive Incarnations of Tsoknyi Öser"
 collection: publications
 category: datasets and other
 permalink: /publication/2021-Tibshelf1
-date: 2021
+date: 2021-01-01
 authors: Rachael M. Griffiths, Tenzin Choephel, and Michael Elison
 venue: 'TibShelf'
 link: 'https://www.tibshelf.org/tibetan-translations/a-brief-biography-the-successive-incarnations-of-tsoknyi-ozer'
