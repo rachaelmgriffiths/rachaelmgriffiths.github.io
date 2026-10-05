@@ -119,3 +119,30 @@ html body .page__meta {
 }
 
 html body .archive__subtitle { margin: 1.5rem 0 .75rem; }
+
+html body .sidebar,
+html body .author__urls-wrapper {
+  max-width: 200px;
+  overflow: hidden;
+}
+
+html body .author__urls {
+  width: 100% !important;
+  max-width: 200px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html body .author__urls li { width: auto; }
+
+html body .author__urls a {
+  display: inline-block;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+html body #main {
+  width: 100% !important;
+  box-sizing: border-box;
+}
