@@ -8,5 +8,5 @@ authors: Rachael M. Griffiths and Tenzin Choephel
 venue: 'TibShelf'
 link: 'https://www.tibshelf.org/tibetan-translations/a-letter-to-hotoktu-rinpoche'
 citation: 'Griffiths, R.M., and Choephel, Tenzin (2021). "A Letter to Hotoktu Rinpoche." <i>TibShelf</i>, 1-4'
-bibtex: |
+bibtex:
 ---

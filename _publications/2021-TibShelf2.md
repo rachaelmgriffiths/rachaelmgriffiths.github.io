@@ -8,5 +8,5 @@ authors: Rachael M. Griffiths and Tenzin Choephel
 venue: 'TibShelf'
 link: 'https://www.tibshelf.org/tibetan-translations/the-ruby-garland-a-genealogy-of-the-emperor-uhu-wang-genghis-khan'
 citation: 'Griffiths, R.M., and Choephel, Tenzin (2021). "The Ruby Garland: A Genealogy of the Emperor Uhu Wang Genghis Khan." <i>TibShelf</i>, 1-20'
-bibtex: |
+bibtex:
 ---
