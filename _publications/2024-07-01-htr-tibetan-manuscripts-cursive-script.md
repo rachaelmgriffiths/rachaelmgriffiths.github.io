@@ -8,5 +8,15 @@ authors: Rachael M. Griffiths
 venue: 'Revue d’Etudes Tibétaines (RET)'
 link: 'https://archivenepal.s3.amazonaws.com/digitalhimalaya/collections/journals/ret/pdf/ret_72_03.pdf'
 citation: 'Griffiths, R.M. (2024). &quot;Handwritten Text Recognition (HTR) for Tibetan Manuscripts in Cursive Script.&quot; <i>Revue d’Etudes Tibétaines</i> 72, 43-51'
-bibtexurl:
+bibtex: |
+    @article{griffiths2024htr,
+    author = {Griffiths, Rachael M.},
+    doi = {10.1553/TibSchol_ERC_HTR},
+    journal = {Revue d’Etudes Tibétaines},
+    keyword = {en},
+    month = {July},
+    title = {Handwritten Text Recognition (HTR) for Tibetan Manuscripts in Cursive Script},
+    year = {2024},
+    pages = {43-51}
+    }
 ---

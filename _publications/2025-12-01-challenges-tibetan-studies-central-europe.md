@@ -8,5 +8,15 @@ authors: Rachael M. Griffiths and Daniel Wojahn
 venue: 'The Oriental Institute and Orientalist Research in Czechoslovakia'
 link: 'https://www.zaphon.de/orientalist-research-in-czechoslovakia'
 citation: 'Griffiths, R.M. and Wojahn, D. (2025). &quot;Challenges along the Way: Pioneering Work in the Development of Tibetan Stud­ies in Central Europe.&quot; In <i>The Oriental Institute and Orientalist Research in Czechoslovakia</i>, edited by Adéla Jůnová Macková and Tomáš Petrů, 227-245. Munster: Zaphon'
-bibtexurl:
+bibtex: |
+  @incollection{griffithswojahn2025challenges,
+  title = {Challenges along the Way: Pioneering Work in the Development of Tibetan Stud­ies in Central Europe},
+  author = author = {Griffiths, Rachael M. and Wojahn, Daniel},
+  year = {2025},
+  booktitle = {The Oriental Institute and Orientalist Research in Czechoslovakia},
+  publisher = {Zaphon},
+  pages = {227--245},
+  editor = {Adéla Jůnová Macková and Tomáš Petrů},
+  doi = {10.63744/aYiz0uLyIS4f}
+  }
 ---

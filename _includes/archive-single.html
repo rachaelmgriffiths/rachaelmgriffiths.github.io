@@ -39,10 +39,12 @@
     <p class="archive__item-authors">{{ post.authors }}</p>
   {% endif %}
   <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-  {% if post.paperurl or post.bibtexurl %}
-    <p>
-      {% if post.bibtexurl %}<a href="{{ post.bibtexurl }}">BibTeX</a>{% endif %}
-    </p>
+
+  {% if post.bibtex %}
+  <details class="bibtex">
+    <summary>BibTeX</summary>
+    <pre><code>{{ post.bibtex | escape }}</code></pre>
+  </details>
   {% endif %}
 {% endif %}
     
