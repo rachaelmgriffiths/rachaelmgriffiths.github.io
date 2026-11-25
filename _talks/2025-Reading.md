@@ -6,5 +6,5 @@ speakers: Rachael M. Griffiths
 link: https://research.reading.ac.uk/digitalhumanities/event/generative-artificial-intelligence-and-teaching-the-ancient-world/
 venue: "(Gen)AI and Teaching the Ancient World"
 date: 2025-06-21
-location: "University of Reading"
+location: "University of Reading (hybrid)"
 ---
